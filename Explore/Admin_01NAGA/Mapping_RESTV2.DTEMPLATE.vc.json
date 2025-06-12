@@ -482,7 +482,7 @@
             "retainMetadata" : "false",
             "fileAttrs" : {
               "consecutiveDelimiter" : "false",
-              "delimiter" : ",",
+              "delimiter" : "\t",
               "firstDataRow" : 2,
               "firstDataRowAsHeader" : "false",
               "headerLineNo" : 1,
@@ -509,5 +509,5 @@
       }
     ]
   },
-  "vcsExportTime" : "2025-06-12 05:53:22 PDT"
+  "vcsExportTime" : "2025-06-12 05:57:39 PDT"
 }
